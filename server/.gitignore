@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/public
 /.pnp
 .pnp.js
 /build
@@ -11,8 +12,7 @@
 # production
 /build
 
-# Ignore node_modules directory for the server
-/server/node_modules/
+
 
 
 # misc
